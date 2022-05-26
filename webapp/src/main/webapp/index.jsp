@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="address"><b>Enter Physical Address</b></label>
+    <label for="address"><b>Physical Address</b></label>
         <input type="text" placeholder="Physical Address" name="address" id="address" required>
         <br>
 
