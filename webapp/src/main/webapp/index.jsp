@@ -17,7 +17,7 @@
     <br>
 
     <label for="address"><b>Physical Address</b></label>
-        <input type="text" placeholder="Physical Address" name="address" id="address" required>
+        <input type="text" placeholder="Address" name="address" id="address" required>
         <br>
 
     <label for="psw"><b>Password</b></label>
