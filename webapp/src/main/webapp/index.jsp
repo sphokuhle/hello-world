@@ -34,5 +34,5 @@
   <div class="container signin">
     <p>Now pushing the image to docker host<a href="#">Sign in</a>.</p>
   </div>
-   <h1> We are almost done with the course</h1>
+   <h1> We are almost done with the course!!!</h1>
 </form>
